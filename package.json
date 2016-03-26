@@ -1,12 +1,12 @@
 {
   "name": "npm-spof-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm's single point of failure - illustrated.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/resir014/npm-spof-test.git"
+    "url": "https://github.com/hexdefined/npm-spof-test.git"
   },
-  "author": "Resi Respati <resir014@gmail.com>",
+  "author": "undefined <hexdefined@gmail.com>",
   "main": "./lib/spof.js",
   "license": "WTFPL",
   "scripts": {
